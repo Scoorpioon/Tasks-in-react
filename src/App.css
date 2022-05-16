@@ -1,0 +1,11 @@
+.container {
+  max-width: 600px;
+  margin: 50px auto;
+  overflow: auto;
+  min-height: 400px;
+  padding: 30px;
+  border: 2.5px solid cornflowerblue;
+  border-radius: 2px;
+
+  box-sizing: border-box;
+}

@@ -1,0 +1,17 @@
+.task-container {
+  transition: .5s ease-in-out;
+  background-color: rgb(40, 40, 40);
+  margin: 10px 0;
+  padding: 10px;
+  border-radius: 15px;
+  font-size: 20px;
+  cursor: pointer;
+
+}
+
+.task-container:hover {
+  transition: 0.5s;
+  background-color: rgb(48, 48, 48);
+  font-size: 20.5px;
+
+}
